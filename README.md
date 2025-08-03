@@ -1,4 +1,4 @@
-# Palmoria-HR-Data-Report
+[Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21568458/Palmoria.Group.emp-data.csv)# Palmoria-HR-Data-Report
 Palmoria Group is a manufacturing company based in Nigeria and concerned with issues
 relating to gender inequality in its 3 regions. The situation was further highlited by the recent media 
 post casting their image in a bad light. 
@@ -6,11 +6,15 @@ post casting their image in a bad light.
 This report is an attempt to show the true situation with data.
 
 Two data sets where provided. One excel file and a csv file.
-The excel file is provided thus [ ]
-While the csv file is [  ]
+The excel file is provided thus [Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21568456/Palmoria.Group.Bonus.Rules.xlsx)
+
+While the csv file is 
+[Uploading Palmoria Group emp-data[Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21568459/Palmoria.Group.Bonus.Rules.xlsx).csv…]()
 
 The data from both excel and csv were cleaned and then visualized. 
 [Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21323310/Palmoria.Group.emp-data.csv)
 [Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21323309/Palmoria.Group.Bonus.Rules.xlsx)
 Power BI cannot save so the out put and presentation are not captured here.
-[Ewa's HR Data Model.pdf](https://github.com/user-attachments/files/21568396/Ewa.s.HR.Data.Model.pdf)
+
+[Ewa's HR Data Model.pdf](https://github.com/user-attachments/files/21568453/Ewa.s.HR.Data.Model.pdf)
+![IMG_20250803_233255_044](https://github.com/user-attachments/assets/04bbb352-c4d6-4777-b23a-83740c2c4aa6)
