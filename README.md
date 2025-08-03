@@ -14,7 +14,7 @@ While the csv file is
 The data from both excel and csv were cleaned and then visualized. 
 [Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21323310/Palmoria.Group.emp-data.csv)
 [Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21323309/Palmoria.Group.Bonus.Rules.xlsx)
-Power BI cannot save so the out put and presentation are not captured here.
+Power BI cannot save so the out put and presentation are not properly captured here.
 
 [Ewa's HR Data Model.pdf](https://github.com/user-attachments/files/21568453/Ewa.s.HR.Data.Model.pdf)
 ![IMG_20250803_233255_044](https://github.com/user-attachments/assets/04bbb352-c4d6-4777-b23a-83740c2c4aa6)
