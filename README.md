@@ -18,3 +18,5 @@ Power BI cannot save so the out put and presentation are not properly captured h
 
 [Ewa's HR Data Model.pdf](https://github.com/user-attachments/files/21568453/Ewa.s.HR.Data.Model.pdf)
 ![IMG_20250803_233255_044](https://github.com/user-attachments/assets/04bbb352-c4d6-4777-b23a-83740c2c4aa6)
+
+![Ewa's HR Data Model](https://github.com/user-attachments/assets/1af50fe4-a7dd-4955-ba20-34cf8646de61)
