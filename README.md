@@ -14,8 +14,8 @@ While the csv file is
 The data from both excel and csv were cleaned and then visualized. 
 [Palmoria Group emp-data.csv](https://github.com/user-attachments/files/21323310/Palmoria.Group.emp-data.csv)
 [Palmoria Group Bonus Rules.xlsx](https://github.com/user-attachments/files/21323309/Palmoria.Group.Bonus.Rules.xlsx)
-I struggled badly to add my vsualisations since Power BI cannot save PDF file,so the out put and presentation were not properly captured here.
-I later found a way to safe pdf to pictures hence the output below.
+I struggled badly to add my vsualisations to this page since Power BI cannot save PDF fil,so the output and presentation was not properly captured here.
+I later found a way to save pdf to pictures hence the output below.
 
 
 ![Ewa's HR Data Model](https://github.com/user-attachments/assets/1af50fe4-a7dd-4955-ba20-34cf8646de61)
